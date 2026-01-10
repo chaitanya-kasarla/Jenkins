@@ -1,6 +1,6 @@
 #jenkins
 
 ```bash
-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
+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
 
 ```
